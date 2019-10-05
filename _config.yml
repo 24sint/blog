@@ -21,11 +21,10 @@
 title: Sintu's Blog
 email: sintemite@gmail.com
 description: This my amazing new blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://24sint.github.io/blog/" # the subpath of your site, e.g. /blog
+url: "https://24sint.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  https://github.com/24sint
-
 # Build settings
 theme: minima
 plugins:
